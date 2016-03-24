@@ -3,6 +3,9 @@
 //
 // IDECodeSnippetCompletionPrefix: async
 // IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetIdentifier: 1395D39B-658D-4C54-B210-F10225B59DB5
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 dispatch_async(dispatch_get_global_queue(<#dispatch_queue_priority_t priority#>, <#unsigned long flags#>), ^(void) {
     <#code#>
 
