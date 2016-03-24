@@ -1,9 +1,10 @@
-// Pragma mark
-// Pragma mark to decorate source files
+// dispatch_async Pattern for Background Processing
+// Dispatch to do work in the background, and then to the main queue with the results
 //
 // IDECodeSnippetCompletionScopes: [Function or Method]
-// IDECodeSnippetTitle: dispatch_async Pattern for Background Processing
-// IDECodeSnippetSummary: Dispatch to do work in the background, and then to the main queue with the results
+// IDECodeSnippetIdentifier: E72FED9D-97AA-400D-A2EF-1FBD27354545
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 
 dispatch_async(dispatch_get_global_queue(<#dispatch_queue_priority_t priority#>, <#unsigned long flags#>), ^(void) {
     <#code#>
